@@ -18,9 +18,9 @@ function NavBar() {
                 </div>
                 {/* <nav :class="{'flex': open, 'hidden': !open}" class="flex-col flex-grow pb-4 md:pb-0 hidden md:flex md:justify-end md:flex-row"> */}
                 <nav class="flex-col flex-grow pb-4 md:pb-0 hidden md:flex md:justify-end md:flex-row">
-                    <a class="px-4 py-2 mt-2 text-sm font-light bg-transparent rounded-lg md:mt-0 md:ml-4 hover:bg-gray-200 hover:bg-opacity-20 focus:bg-gray-200 focus:bg-opacity-10 focus:outline-none focus:shadow-outline" href="#hero">Hero</a>
-                    <a class="px-4 py-2 mt-2 text-sm font-light bg-transparent rounded-lg md:mt-0 md:ml-4 hover:bg-gray-200 hover:bg-opacity-20 focus:bg-gray-200 focus:bg-opacity-10 focus:outline-none focus:shadow-outline" href="#about">About</a>
-                    <a class="px-4 py-2 mt-2 text-sm font-light bg-transparent rounded-lg md:mt-0 md:ml-4 hover:bg-gray-200 hover:bg-opacity-20 focus:bg-gray-200 focus:bg-opacity-10 focus:outline-none focus:shadow-outline" href="#ClemBot">ClemBot</a>  
+                    <a class="transition duration-300 px-4 py-2 mt-2 text-sm font-light bg-transparent rounded-lg md:mt-0 md:ml-4 hover:bg-gray-200 hover:bg-opacity-20 focus:bg-gray-200 focus:bg-opacity-10 focus:outline-none focus:shadow-outline" href="#hero">Hero</a>
+                    <a class="transition duration-300 px-4 py-2 mt-2 text-sm font-light bg-transparent rounded-lg md:mt-0 md:ml-4 hover:bg-gray-200 hover:bg-opacity-20 focus:bg-gray-200 focus:bg-opacity-10 focus:outline-none focus:shadow-outline" href="#about">About</a>
+                    <a class="transition duration-300 px-4 py-2 mt-2 text-sm font-light bg-transparent rounded-lg md:mt-0 md:ml-4 hover:bg-gray-200 hover:bg-opacity-20 focus:bg-gray-200 focus:bg-opacity-10 focus:outline-none focus:shadow-outline" href="#ClemBot">ClemBot</a>  
                 </nav>
             </div>
         </header>

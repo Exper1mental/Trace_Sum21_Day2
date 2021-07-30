@@ -12,13 +12,13 @@ function ClemBot() {
                         <a
                             href="https://github.com/ClemBotProject/ClemBot"
                             rel="noopener noreferrer"
-                            target="_blank"class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
+                            target="_blank"class="transition duration-300 inline-flex text-white bg-indigo-700 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-500 rounded text-lg"
                         >GitHub</a>
                         <a
                             href="https://discord.gg/QNRbC6k"
                             rel="noopener noreferrer"
                             target="_blank"
-                            class="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
+                            class="transition duration-300 ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-600 hover:text-white rounded text-lg"
                         >Discord</a>
                     </div>
                 </div>
